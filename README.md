@@ -1,12 +1,13 @@
-- 👋 Ola! eu sou o @lucaspedrodev;
+- 👋 Ola! eu sou o Lucas Pedro;
 - 👀 Estou interessado em encontrar uma vaga de emprego de Desenvolvedor;
 - 🌱 já aprendi HTML | CSS | JavaScript | React | Redux | Context Api | Git Hub | Bootstrap;
-- 💞️ Estou aprendendo mais sobre o BackEnd;
+- 💞️ Estou focado nomódulo de BackEnd na TRYBE;
 
+##
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspedrodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspedrodev&layout=compact&langs_count=7&theme=dark"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lucaspedrodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspedrodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +18,7 @@
     <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-computador-0.gif">
 </div>
   
- ________________________________________________
+ _____
 <div> 
   <a href="https://www.instagram.com/lucaspesdro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaspedrodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
