@@ -1,4 +1,4 @@
-- 👋 Olaaa! Eu sou o Lucas Pedro (Lupê)! 
+- 👋 Ola! Eu sou o Lucas Pedro (Lupê)! 
 - 👀 Estou interessado em encontrar uma vaga de emprego como Desenvolvedor!
 - 🌱 já aprendi HTML | CSS | JavaScript | React | Redux | Context Api | Git Hub | Bootstrap;
 - 💞️ Estou focado neste momento no módulo de Back-End na TRYBE, aprofundando os conhecimentos sobre o Docker.
